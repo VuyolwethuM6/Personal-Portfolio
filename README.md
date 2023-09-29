@@ -1,7 +1,7 @@
 # Personal Portfolio
 
 Welcome to my personal portfolio! This portfolio showcases my skills, experience, and projects. Whether you're a potential employer, colleague, or just curious about my work, you'll find everything you need to know right here.
-![Project Logo](./img/ProjectLogo)
+![Project Logo](./img/ProjectLogo.png)
 ## Table of Contents
 
 - [About Me](#about-me)
