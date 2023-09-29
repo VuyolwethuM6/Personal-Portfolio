@@ -48,19 +48,21 @@ My skill set includes:
 
 Here are some of the projects I've worked on:
 
-1. **[Project Name]**
-   - **Description:** [Brief description of the project. What problem did it solve? What technologies did you use?]
-   - **Link:** [Link to the project, if available]
+1. **[Creative Innovators](https://creative-tutors-website.netlify.app/)**
+   - A team of software development interns and the services they provide.
+   - Technologies used: HTML, CSS, JavaScript.
+   - [Demo](https://creative-tutors-website.netlify.app/) | [Repository](https://github.com/VuyolwethuM6/Creative-Tutors-Website)
 
-2. **[Project Name]**
-   - **Description:** [Brief description of the project. What problem did it solve? What technologies did you use?]
-   - **Link:** [Link to the project, if available]
+2. **[Creative Tutors](https://creative-tutors-website.netlify.app/)**
+   - A platform to showcase a tutoring services and provide valuable resources for students.
+   - Technologies used: HTML, CSS, JavaScript.
+   - [Demo](https://creative-tutors-website.netlify.app/) | [Repository](https://creative-tutors-website.netlify.app/)
 
-3. **[Project Name]**
-   - **Description:** [Brief description of the project. What problem did it solve? What technologies did you use?]
-   - **Link:** [Link to the project, if available]
+3. **[Software Development Team](https://creative-innovators-portfolio.netlify.app/)**
+   - A talented team of software development interns passionate about technology and innovation
+   - Technologies used: HTML, CSS, JavaScript.
+   - [Demo](https://creative-innovators-portfolio.netlify.app/) | [Repository](https://github.com/VuyolwethuM6/Creative-Innovators-Portfolio)
 
-[Add more projects as needed.]
 
 ## Contact
 
@@ -69,6 +71,6 @@ I'm always open to new opportunities and collaborations. Feel free to reach out 
 - **Email:** [vmabhuleka@gmail.com](mailto:vmabhuleka@gmail.com)
 - **LinkedIn:** [Vuyolwethu Mabhuleka](in/vuyolwethu-mabhuleka-89092b289)
 - **GitHub:** [VuyolwethuM6](https://github.com/VuyolwethuM6)
-- **Portfolio:** [Vuolwethu Mabhuleka](vuyolwethu-mabhuleka.netlify.app)
+- **Portfolio:** [Vuyolwethu Mabhuleka](vuyolwethu-mabhuleka.netlify.app)
 
 Thank you for visiting my portfolio! I look forward to connecting with you and exploring potential ways we can work together.
