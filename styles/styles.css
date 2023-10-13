@@ -216,15 +216,7 @@
 
       Some Style
 
-*/
 
-
-
-/* 
-
-      Some Style
-
-*/
   .about-container .right-about {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
@@ -321,7 +313,7 @@
     transition: all 0.4s ease-in-out;
     width: 60%;
   }
-  .about-stats .progress-bars .progress-bar .progress-con .progress .html {
+ .about-stats .progress-bars .progress-bar .progress-con .progress .html {
     width: 80%;
   }
   .about-stats .progress-bars .progress-bar .progress-con .progress .css {
@@ -338,7 +330,7 @@
   }
   .about-stats .progress-bars .progress-bar .progress-con .progress .python {
     width: 70%;
-  }
+  } 
   
   .stat-title {
     text-transform: uppercase;
